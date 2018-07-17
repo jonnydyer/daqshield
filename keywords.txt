@@ -13,7 +13,7 @@ DAQShield	KEYWORD1
 #######################################
 
 set	KEYWORD2
-begin KEYWORD2
+begin	KEYWORD2
 end	KEYWORD2
 initSPI	KEYWORD2
 resetDataFlash	KEYWORD2
