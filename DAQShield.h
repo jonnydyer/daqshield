@@ -76,6 +76,7 @@
 #define ADC_MUXCAL_AVDD 0x06
 #define ADC_MUXCAL_DVDD 0x07
 
+#define GAIN_FOR_PGA_SETTING(x) (float)(1 << (x>>4))
 
 class DAQShieldClass {
 public:
