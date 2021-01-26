@@ -31,6 +31,7 @@ readReg	KEYWORD2
 readData	KEYWORD2
 writeReg	KEYWORD2
 sample	KEYWORD2
+GAIN_FOR_PGA_SETTING KEYWORD2
 
 ######################################
 # Instances (KEYWORD2)
